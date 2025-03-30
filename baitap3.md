@@ -56,7 +56,9 @@ YÊU CẦU:
 ![image](https://github.com/user-attachments/assets/a6432ad8-bff3-40f2-a074-78b32cf565a7)
 
 # ĐÂY LÀ HÌNH ẢNH CODE TRUY VẤN 
-# XUẤT DỮ LIỆU CỦA DB (bai_tap_3_schena.sql)
+![image](https://github.com/user-attachments/assets/131c5be1-e577-46a4-b86a-58da330300d9)
+# XUẤT DỮ LIỆU CỦA DB (bai_tap_3_schema.sql)
+![image](https://github.com/user-attachments/assets/f84f55de-fc57-4f68-81f9-10f2435d154d)
 # XUẤT DỮ LIỆU ĐÃ NHẬP (bai_tap_3_data.sql)
 
 ![image](https://github.com/user-attachments/assets/f072921a-d005-426f-9e34-2a35f731c28e)
